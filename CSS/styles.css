@@ -85,10 +85,11 @@ h3{
   color: #66BFBF;
 }
 .personaldescription{
+  margin: 3% auto 4% auto;
+  width: 50%;
   color: #171717;
   font-size: 120%;
   font-family: 'Inter', sans-serif;
-  margin-bottom: 5%;
 }
 p{
   color: #171717;
